@@ -1,0 +1,33 @@
+#name  p{
+    font-size: 70px;
+    color: rgb(17, 1, 241);
+    display: inline-block;
+   
+    margin:0px;
+}
+#name
+{
+    display: inline-block;
+    
+    
+}
+
+
+.cla
+{
+    font-size: 20px;
+    
+    display: inline-flex;
+    margin: 0px 110px;
+
+}
+#one
+{
+    display: block;
+}
+.para{
+    display: block;
+    color: white;
+    background-color: rgb(73 73 225);
+    
+}
